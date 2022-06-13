@@ -1,0 +1,1 @@
+This portfolio contains my resume and most recent projects. Please feel free to contact me if you have any questions!
