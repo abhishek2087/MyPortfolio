@@ -595,7 +595,7 @@ section {
   font-weight: 400;
   font-size: 13px;
 }
-/*.contact .php-email-form .error-message {
+.contact .php-email-form .error-message {
   display: none;
   color: #fff;
   background: #ed3c0d;
@@ -631,7 +631,7 @@ section {
   border-top-color: #eee;
   -webkit-animation: animate-loading 1s linear infinite;
   animation: animate-loading 1s linear infinite;
-}*/
+}
 .contact .php-email-form .form-group {
   margin-bottom: 15px;
 }
